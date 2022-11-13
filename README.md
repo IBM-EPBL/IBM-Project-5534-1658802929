@@ -4,7 +4,7 @@
 
 |      *Project Name*     | Smart Lender - Applicant Credibility prediction for loan approval |
 |:---------------------:|:------------------------------:|
-|         *Domain*        |  Cloud Application Development |
+|         *Domain*        |  Applied Data Science |
 |        *Team ID*        |  PNT2022TMID19156 |
 
 # Team Members :
